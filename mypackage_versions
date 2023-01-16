@@ -1,0 +1,16 @@
+[
+  {
+    "download_url" : "https://github.com/ollydev/SimbaPackageCustomEndpoint/raw/main/versions/V2.zip",
+    "options_url" : "",
+    "notes" : "Version 2! I'm the problem it's me",
+    "time" : "1673887315",
+    "name" : "2"
+  },
+  {
+    "download_url" : "https://github.com/ollydev/SimbaPackageCustomEndpoint/raw/main/versions/V1.zip",
+    "options_url" : "",
+    "notes" : "Version 1! Hello, it's me",
+    "time" : "1672764099",
+    "name" : "1"
+  }
+]
