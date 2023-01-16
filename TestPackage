@@ -1,0 +1,6 @@
+{
+  "name" : "Test Package",
+  "full_name" : "Test Package",
+  "description" : "Hello world I am a test package",
+  "homepage_url" : "https://github.com/ollydev/SimbaPackageCustomEndpoint",
+} 
